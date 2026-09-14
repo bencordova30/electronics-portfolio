@@ -3,4 +3,4 @@
 This repository contains my personal electronics and Arduino projects.
 
 ## Projects
-- [Project 1: Name of your first project](./project-1)
+- [Project 1: Making 3 LEDs Blink](./project-1)
