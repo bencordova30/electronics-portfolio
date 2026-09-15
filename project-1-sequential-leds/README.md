@@ -1,5 +1,5 @@
 # Project 1: Sequential LED Blink
-My first Arduino project - making 3 LEDS blink one after another.
+My first Arduino project - making 3 LEDS blink.
 
 ### What I learned
 -How to wire LEDS with resistors
