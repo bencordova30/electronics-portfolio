@@ -7,7 +7,7 @@ My first Arduino project - making 3 LEDS blink one after another.
 -How to troubleshoot wrong connections
 
 ### Demo Video
-
+[Watch the video here](https://www.tiktok.com/t/ZTU4eAmdD/)
 
 ### Code 
 ```cpp
