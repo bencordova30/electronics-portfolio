@@ -7,3 +7,11 @@ My first Arduino project - making 3 LEDS blink one after another.
 -How to troubleshoot wrong connections
 
 ### Demo Video
+
+
+### Code 
+```cpp
+//Paste your full Arduino code below this line
+
+void setup() {
+  pinMode(LED1, OUTPUT);
